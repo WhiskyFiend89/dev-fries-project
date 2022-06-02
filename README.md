@@ -2,4 +2,4 @@
 
 Dev Camp coding foundations project
 
-A project created after workin through coding foundations section of the PT Fulstack Python/React from Bottega.
+A project created after working through coding foundations section of the PT Fulstack Python/React from Bottega.
